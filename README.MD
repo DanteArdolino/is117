@@ -1,8 +1,10 @@
 # About
-Website Location: https://danteardolino.github.io/is117/
+Website Location: https://danteardolino.github.io/is117-FinalProject-Part2A/
 
-[Click Here to View My Website](https://danteardolino.github.io/is117/)
-[Click Here to View My Website on NJIT AFS SERVER](https://web.njit.edu/~dra24/is117sp21/docs/)
+History of the Internet + How the Internet Works
 
+[Click Here to View My Website](https://danteardolino.github.io/is117-FinalProject-Part2A/)
+
+Design Link : Design was already implemented, added the two sites together and fixed incongruities
 ## Dante Ardolino
 
